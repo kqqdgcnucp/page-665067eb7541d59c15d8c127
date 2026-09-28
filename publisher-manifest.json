@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "699e0c55c4f7667b3fe76ffc",
+  "owner": "kqqdgcnucp",
+  "repo": "page-665067eb7541d59c15d8c127",
+  "title": "快柠檬",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "665067eb7541d59c15d8c127",
+      "a": "快柠檬",
+      "b": "",
+      "entity": "快柠檬",
+      "brand": "快柠檬",
+      "separator": "",
+      "path": "index.html",
+      "hash": "dbb4a347b92e460bb4cb8c2bdecac33fefffbe08150390a093440acc42ae3cb8",
+      "content": {
+        "keyword1": "快柠檬",
+        "keyword2": "",
+        "primary_entity": "快柠檬",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "快柠檬提供稳定高速VPN加速服务，助力流畅上网与内容解锁。下载官方客户端，享受优质网络体验。",
+          "AI_DESCRIPTION": "快柠檬提供稳定高速VPN加速服务，助力流畅上网与内容解锁。下载官方客户端，享受优质网络体验。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n\n\n\n\n\n\n\n\n<style>\nbody {\n  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n  margin: 0;\n  padding: 0;\n  background: #f8f5f2;\n  color: #333;\n  line-height: 1.6;\n}\nheader {\n  background: white;\n  box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n  position: sticky;\n  top: 0;\n  z-index: 10;\n}\nnav {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 1rem;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\nnav a {\n  color: #333;\n  text-decoration: none;\n  margin: 0 1rem;\n}\nh1 {\n  color: #ff6b6b;\n  font-size: 2.5rem;\n  text-align: center;\n  margin: 2rem 0;\n}\nmain {\n  max-width: 1200px;\n  margin: 0 auto;\n  padding: 2rem;\n}\nsection {\n  margin-bottom: 3rem;\n}\n.content-grid {\n  display: grid;\n  grid-template-columns: 1fr;\n  gap: 2rem;\n}\n@media (min-width: 768px) {\n  .content-grid {\n    grid-template-columns: 2fr 1fr;\n  }\n}\nh2 {\n  color: #ff6b6b;\n  font-size: 1.8rem;\n  margin-bottom: 1rem;\n}\nbutton {\n  background: #ff6b6b;\n  color: white;\n  border: none;\n  padding: 0.8rem 1.5rem;\n  border-radius: 4px;\n  cursor: pointer;\n  font-size: 1rem;\n}\nbutton:hover {\n  background: #e55d5d;\n}\n.plans-container {\n  display: flex;\n  flex-wrap: wrap;\n  gap: 1.5rem;\n  justify-content: center;\n}\n.plan-card {\n  background: white;\n  border-radius: 8px;\n  box-shadow: 0 4px 15px rgba(0,0,0,0.1);\n  padding: 1.5rem;\n  width: 280px;\n  text-align: center;\n}\n.plan-card.featured {\n  border: 3px solid #ff6b6b;\n  transform: scale(1.05);\n}\n.plan-card h3 {\n  color: #333;\n  margin: 0 0 1rem;\n}\n.plan-card .price {\n  font-size: 1.8rem;\n  color: #ff6b6b;\n  margin: 1rem 0;\n}\n.plan-card ul {\n  list-style: none;\n  padding: 0;\n  margin: 1rem 0;\n}\n.plan-card li {\n  padding: 0.5rem 0;\n  text-align: left;\n}\n.details {\n  margin-top: 1rem;\n}\n.summary {\n  font-weight: bold;\n  cursor: pointer;\n  color: #ff6b6b;\n}\n.answer {\n  margin-top: 0.5rem;\n  padding-top: 0.5rem;\n  border-top: 1px solid #eee;\n}\nfooter {\n  background: #2c3e50;\n  color: white;\n  text-align: center;\n  padding: 2rem;\n}\n</style>\n\n\n<header>\n<nav>\n<a href=\"#intro\">首页</a>\n<a href=\"#plans\">套餐</a>\n<a href=\"#how-to\">使用指南</a>\n<a href=\"#faq\">FAQ</a>\n</nav>\n</header>\n<main>\n<h1>快柠檬 VPN</h1>\n<section id=\"intro\">\n<h2>快柠檬 VPN 介绍</h2>\n<p class=\"content-grid\">快柠檬是一款专注于高速节点VPN加速的服务，提供稳定可靠的网络连接。无论您是追求流畅浏览还是需要解锁海外内容，都能通过快柠檬享受到优质的加速体验。</p>\n</section>\n<section id=\"use-cases\">\n<h2>适用场景</h2>\n<p class=\"content-grid\">快柠檬适用于个人上网、家庭共享、多设备连接以及企业网络优化场景。它支持多种流媒体平台解锁，帮助您在不同地区畅享高清内容。</p>\n</section>\n<section id=\"plans\">\n<h2>套餐选择</h2>\n{{PLANS_HTML}}\n</section>\n<section id=\"how-to\">\n<h2>如何使用</h2>\n<p class=\"content-grid\">1. 访问官网下载官方客户端<br>2. 安装后选择合适的节点<br>3. 连接到加速线路开始使用</p>\n</section>\n<section id=\"faq\">\n<h2>常见问题</h2>\n<details>\n<summary class=\"summary\">什么是快柠檬 VPN？</summary>\n<p class=\"answer\">快柠檬 VPN 是一款提供全球高速节点加速的 VPN 服务，帮助用户实现更快更稳定的网络连接。</p>\n</details>\n<details>\n<summary class=\"summary\">如何下载客户端？</summary>\n<p class=\"answer\">您可以从官网下载官方客户端，遵循安装指南进行配置。</p>\n</details>\n<details>\n<summary class=\"summary\">支持哪些设备？</summary>\n<p class=\"answer\">快柠檬支持多个设备同时在线，具体以所选套餐为准。</p>\n</details>\n<details>\n<summary class=\"summary\">流量限制是多少？</summary>\n<p class=\"answer\">快柠檬提供不同流量的极速流量方案，具体以所选套餐为准。</p>\n</details>\n<details>\n<summary class=\"summary\">如何获取支持？</summary>\n<p class=\"answer\">旗舰版及以上套餐提供优先工单支持，团队版还有专属客户经理。</p>\n</details>\n</section>\n</main>\n<footer>\n<p>© 快柠檬 VPN 2024 所有权利保留 | <a href=\"#faq\">FAQ</a> | 友情链接</p>\n<p>{{CLIENTS_HTML}}</p>\n</footer>\n\n",
+          "hash": "bfe77ac9fd63545b1904d0be37e5eb97fdfeef6055534771c451d3bc5033ff59",
+          "seo": {
+            "title": "快柠檬 VPN - 机场加速器 | 客户端下载 | 官网",
+            "keywords": "快柠檬 VPN, 机场, 加速器, 客户端下载, VPN, 官网",
+            "description": "快柠檬提供稳定高速VPN加速服务，助力流畅上网与内容解锁。下载官方客户端，享受优质网络体验。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mdfkfsv.cn",
+    "host": "home.mdfkfsv.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "mdfkfsv.cn",
+      "url": "https://mdfkfsv.cn/",
+      "label": "GOOGO",
+      "apex": "mdfkfsv.cn",
+      "kind": null,
+      "identity": "qqeeuqvba/page-82ed93568d3b7d7a3aa36c19"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "8396a8b951a82250b584d10099387b77e9a3d25dd72fddb1801a11a06c5c48bb",
+    "sitemap.xml": "93784f056b116ebdd1d63c1406d40d43a3d0a3685238f7374ae354da7d4579c3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "edf4a6d5041b769b2e0b6eee2428bfdb03b4d62af0bb4f2109941c0bdfb3e95d",
+    "robots.txt": "024076551776583b7c808b5f1251adac79a23774572561369d2af364f11b0222",
+    "19ab1cc3c466011b51f0ae8665515315.txt": "2f0fd43bc0247e9603fa485a031b036ea28e23bc49090754384b624b14f93525"
+  },
+  "revision": "0e7680fa64509fc45610b91886396d441ebd9d9ac0206d7064b0ebe12a9477f1"
+}
